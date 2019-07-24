@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">tute1</string>
+    <string name="Msg1">Here_I am the text message</string>
+    <string name="Msg2">Here I _am message 2</string>
+</resources>
